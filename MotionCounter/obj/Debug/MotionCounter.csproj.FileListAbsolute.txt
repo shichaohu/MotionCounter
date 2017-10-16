@@ -1,0 +1,11 @@
+E:\project\本地项目\MotionCounter\MotionCounter\bin\Debug\MotionCounter.exe.config
+E:\project\本地项目\MotionCounter\MotionCounter\bin\Debug\MotionCounter.exe
+E:\project\本地项目\MotionCounter\MotionCounter\bin\Debug\MotionCounter.pdb
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.csprojResolveAssemblyReference.cache
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.Display.resources
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.Form1.resources
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.Properties.Resources.resources
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.csproj.GenerateResource.Cache
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.csproj.CoreCompileInputs.cache
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.exe
+E:\project\本地项目\MotionCounter\MotionCounter\obj\Debug\MotionCounter.pdb
